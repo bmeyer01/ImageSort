@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "736196752000",
+    "firebase_url": "https://photoid-c1bce-default-rtdb.firebaseio.com",
+    "project_id": "photoid-c1bce",
+    "storage_bucket": "photoid-c1bce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736196752000:android:78a35c2607bb5ea4786c65",
+        "android_client_info": {
+          "package_name": "com.mycompany.imagesort"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCck8DGugAwfMd_CgK47KKJNCmH1vTIQr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736196752000:android:bc909ee11949fb98786c65",
+        "android_client_info": {
+          "package_name": "com.mycompany.plantid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCck8DGugAwfMd_CgK47KKJNCmH1vTIQr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
